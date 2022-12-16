@@ -82,6 +82,6 @@ while True:
         exitSystem()
         break
     else:
-        print ("你的输入有误，请重新输入----")
+        print ("你的输入有误，请重新输入---------")
 
 
